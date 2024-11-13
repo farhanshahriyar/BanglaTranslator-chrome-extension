@@ -1,0 +1,33 @@
+/* Custom styling for the button */
+.custom-button {
+    background-color: #0026ff; /* Light yellow background */
+    color: #ffffff; /* Dark golden color for text */
+    font-weight: bold;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 140px;
+    text-align: center;
+  }
+  
+  .custom-button .icon {
+    margin-right: 8px;
+    font-size: 18px;
+  }
+  
+  .custom-button:hover {
+    background-color: #000000; /* Slightly darker shade on hover */
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .custom-button:active {
+    transform: scale(0.98); /* Button presses in slightly when clicked */
+  }
+  
