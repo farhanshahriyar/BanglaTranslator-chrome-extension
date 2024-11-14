@@ -70,7 +70,7 @@ This extension is ideal for use on English-only websites, such as:
 **Scenario:** A Bangla-speaking user visits a popular English news website and struggles to understand the article in English. By using the TransBanglaWebExt, they can click the "Translate to Bangla" button to instantly view the article's content in Bangla, making it easier to read and comprehend.
 ## Screenshots
 
-![App Screenshot](https://s4.ezgif.com/tmp/ezgif-4-0f8dc3e312.gif)
+![App Screenshot](https://utfs.io/f/oEN78rv1TBzmkNVrdiEerzxa21Y7VIeoqXTwuFhHAyCJL8MO)
 
 
 ## 🚀 Future Improvements
